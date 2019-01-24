@@ -58,7 +58,6 @@ def dennis_ritchies_language
         }
      }
 		 myhashy =programmer_hash[:dennis_ritchie][:languages][0]
-		 puts myhashy + "asdfasdf"
 end
 
 def adding_matz
